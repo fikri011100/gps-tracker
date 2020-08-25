@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "598968118568",
+    "firebase_url": "https://pushnotification-784b7.firebaseio.com",
+    "project_id": "pushnotification-784b7",
+    "storage_bucket": "pushnotification-784b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598968118568:android:6d9a5a9eba9a3dca15341d",
+        "android_client_info": {
+          "package_name": "binus.bmcc.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598968118568-pvf4fi44nukim4glupokf3qmo1vp3oe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNX_s6wu86tilxze939XQTer8OJLo1CY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598968118568-pvf4fi44nukim4glupokf3qmo1vp3oe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598968118568:android:5bad2342af8b4397",
+        "android_client_info": {
+          "package_name": "santriprogrammer.com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598968118568-pvf4fi44nukim4glupokf3qmo1vp3oe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNX_s6wu86tilxze939XQTer8OJLo1CY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598968118568-pvf4fi44nukim4glupokf3qmo1vp3oe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
